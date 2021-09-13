@@ -6,8 +6,8 @@
 //    with dimensions 5cm x 3cm
 
 #include <iostream>
-// Define a namespace instead of typing std:: all the time
-using namespace std;
+using std::cout;
+using std::endl;
 
 int main() {
     // variables for length and width
